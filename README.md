@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Asif S
+- 👀 I’m interested in CFD modelling.
+- 🌱 I’m currently learning modelling and analysis of blood flow through arteries.
+- 💞️ I’m looking to collaborate on CFD projects on bio-fluids.
+- 📫 Can reach me at asifsainu@gmail.com (+919446461145)
